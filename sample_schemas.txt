@@ -1,0 +1,134 @@
+modules schema:
+[
+  {
+    "name": "Extractor - Aldumite",
+    "resources": {
+      "Aluminum": {
+        "amount": 4
+      },
+      "Tungsten": {
+        "amount": 2
+      },
+      "Iron": {
+        "amount": 5
+      }
+    }
+  },
+  {
+    "name": "Extractor - Aldumite - Commercial",
+    "resources": {
+      "Tungsten": {
+        "amount": 4
+      },
+      "Adaptive Frame": {
+        "amount": 3
+      },
+      "Drilling Rig": {
+        "amount": 1
+      },
+      "Isotopic Coolant": {
+        "amount": 2
+      }
+    }
+  },
+  {
+    "name": "Extractor - Aldumite - Industrial",
+    "resources": {
+      "Tungsten": {
+        "amount": 6
+      },
+      "Adaptive Frame": {
+        "amount": 5
+      },
+      "Aldumite Drilling Rig": {
+        "amount": 1
+      },
+      "Isotopic Coolant": {
+        "amount": 4
+      }
+    }
+  },
+  {
+    "name": "Extractor - Alkanes",
+    "resources": {
+      "Aluminum": {
+        "amount": 5
+      },
+      "Nickel": {
+        "amount": 4
+      },
+      "Copper": {
+        "amount": 3
+      }
+    }
+  }
+]
+
+resources schema:
+[
+  {
+    "name": "Aldumite",
+    "mass": 1.9
+  },
+  {
+    "name": "Alkanes",
+    "mass": 0.6
+  },
+  {
+    "name": "Aluminum",
+    "mass": 0.5
+  },
+  {
+    "name": "Antimony",
+    "mass": 0.8
+  }
+]
+
+saved_builds schema:
+{
+  "buildName": "Iron and solar arrays",
+  "modules": [
+    {
+      "name": "Iron Extractor Basic",
+      "count": 1
+    },
+    {
+      "name": "Solar Array",
+      "count": 2
+    }
+  ],
+  "summarizedResources": [
+    {
+      "resource": "aluminum",
+      "amount": 4,
+      "mass": 2
+    },
+    {
+      "resource": "iron",
+      "amount": 5,
+      "mass": 3
+    },
+    {
+      "resource": "tungsten",
+      "amount": 2,
+      "mass": 1.4
+    },
+    {
+      "resource": "aluminium",
+      "amount": 8,
+      "mass": 4
+    },
+    {
+      "resource": "beryllium",
+      "amount": 4,
+      "mass": 2
+    },
+    {
+      "resource": "copper",
+      "amount": 6,
+      "mass": 3.6
+    }
+  ],
+  "totalMass": 16,
+  "timestamp": "2023-10-18T18:37:32.589Z"
+}

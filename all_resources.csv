@@ -1,0 +1,357 @@
+name,mass
+Aldumite,1.9
+Alkanes,0.6
+Aluminum,0.5
+Antimony,0.8
+Argon,0.5
+Benzene,0.6
+Beryllium,0.5
+Caelumite,0.3
+Caesium,0.8
+Carboxylic Acids,0.8
+Chlorine,0.5
+Chlorosilanes,0.6
+Cobalt,0.6
+Copper,0.6
+Dysprosium,1.4
+Europium,1
+Fluorine,0.5
+Gold,0.8
+Helium-3,0.5
+Indicite,2.3
+Ionic Liquids,0.8
+Iridium,0.7
+Iron,0.6
+Lead,0.7
+Lithium,0.5
+Mercury,0.8
+Neodymium,0.8
+Neon,0.5
+Nickel,0.6
+Palladium,0.7
+Platinum,0.8
+Plutonium,1.6
+Rothicite,2.2
+Silver,0.6
+Tantalum,0.9
+Tasine,1.2
+Tetrafluorides,0.7
+Titanium,0.5
+Tungsten,0.7
+Uranium,0.7
+Vanadium,0.7
+Veryl,0.9
+Vytinium,2.5
+Water,0.5
+Xenon,0.8
+Ytterbium,1.2
+Aqueous Hematite,1.3
+Adhesive,0.5
+Adhesive (Bone),0.3
+Adhesive (Carapace),0.3
+Adhesive (Flower),0.05
+Adhesive (Gland),0.2
+Adhesive (Hide),0.5
+Adhesive (Leaf),0.1
+Adhesive (Root),0.1
+Adhesive (Sap),0.1
+Adhesive (Seed),0.1
+Adhesive (Stalk),0.1
+Adhesive (Tissue),0.2
+Adhesive (Vital Fluids),0.2
+Amino Acids,0.5
+Amino Acids (Bone),0.3
+Amino Acids (Carapace),0.3
+Amino Acids (Flower),0.05
+Amino Acids (Gland),0.2
+Amino Acids (Hide),0.5
+Amino Acids (Leaf),0.1
+Amino Acids (Root),0.1
+Amino Acids (Sap),0.1
+Amino Acids (Seed),0.1
+Amino Acids (Stalk),0.1
+Amino Acids (Tissue),0.2
+Amino Acids (Vital Fluids),0.2
+Analgesic,0.5
+Analgesic (Gland),0.2
+Analgesic (Hide),0.5
+Analgesic (Leaf),0.1
+Analgesic (Root),0.1
+Analgesic (Sap),0.1
+Analgesic (Seed),0.1
+Analgesic (Stalk),0.1
+Analgesic (Tissue),0.2
+Analgesic (Vital Fluids),0.2
+Antimicrobial,0.5
+Antimicrobial (Bone),0.5
+Antimicrobial (Carapace),0.3
+Antimicrobial (Flower),0.05
+Antimicrobial (Gland),0.2
+Antimicrobial (Leaf),0.1
+Antimicrobial (Root),0.1
+Antimicrobial (Sap),0.1
+Antimicrobial (Seed),0.1
+Antimicrobial (Stalk),0.1
+Aromatic,0.5
+Aromatic (Bone),0.3
+Aromatic (Carapace),0.3
+Aromatic (Flower),0.05
+Aromatic (Gland),0.2
+Aromatic (Hide),0.5
+Aromatic (Leaf),0.1
+Aromatic (Root),0.1
+Aromatic (Sap),0.1
+Aromatic (Seed),0.1
+Aromatic (Tissue),0.2
+Aromatic (Vital Fluids),0.2
+Biosuppressant,0.5
+Biosuppressant (Bone),0.3
+Biosuppressant (Carapace),0.3
+Biosuppressant (Flower),0.05
+Biosuppressant (Gland),0.2
+Biosuppressant (Hide),0.5
+Biosuppressant (Leaf),0.1
+Biosuppressant (Root),0.1
+Biosuppressant (Sap),0.1
+Biosuppressant (Seed),0.1
+Biosuppressant (Stalk),0.1
+Biosuppressant (Tissue),0.2
+Biosuppressant (Vital Fluids),0.2
+Cosmetic,0.5
+Cosmetic (Bone),0.3
+Cosmetic (Carapace),0.3
+Cosmetic (Flower),0.05
+Cosmetic (Gland),0.2
+Cosmetic (Hide),0.5
+Cosmetic (Leaf),0.1
+Cosmetic (Root),0.1
+Cosmetic (Sap),0.1
+Cosmetic (Seed),0.1
+Cosmetic (Stalk),0.1
+Cosmetic (Tissue),0.2
+Cosmetic (Vital Fluids),0.2
+Fiber,0.5
+Fiber (Bone),0.3
+Fiber (Carapace),0.3
+Fiber (Leaf),0.1
+Fiber (Root),0.1
+Fiber (Stalk),0.1
+Gastronomic Delight,1.5
+Hallucinogen,0.5
+Hallucinogen (Bone),0.3
+Hallucinogen (Carapace),0.3
+Hallucinogen (Flower),0.05
+Hallucinogen (Gland),0.2
+Hallucinogen (Hide),0.5
+Hallucinogen (Leaf),0.1
+Hallucinogen (Root),0.1
+Hallucinogen (Sap),0.1
+Hallucinogen (Seed),0.1
+Hallucinogen (Stalk),0.1
+Hallucinogen (Tissue),0.2
+Hallucinogen (Vital Fluids),0.2
+High-Tensile Spidroin,1.3
+Hypercatalyst (Bone),0.3
+Hypercatalyst (Carapace),0.3
+Hypercatalyst (Flower),0.05
+Hypercatalyst (Gland),0.2
+Hypercatalyst (Hide),0.5
+Hypercatalyst (Leaf),0.1
+Hypercatalyst (Root),0.1
+Hypercatalyst (Sap),0.1
+Hypercatalyst (Seed),0.1
+Hypercatalyst (Stalk),0.1
+Hypercatalyst (Tissue),0.2
+Hypercatalyst (Vital Fluids),0.2
+Immunostimulant,1.3
+Lubricant,0.5
+Lubricant (Flower),0.05
+Lubricant (Gland),0.2
+Lubricant (Hide),0.5
+Lubricant (Leaf),0.1
+Lubricant (Root),0.1
+Lubricant (Sap),0.1
+Lubricant (Seed),0.1
+Lubricant (Stalk),0.1
+Lubricant (Tissue),0.2
+Lubricant (Vital Fluids),0.2
+Luxury Textile,1.5
+Membrane,0.5
+Membrane (Carapace),0.3
+Membrane (Flower),0.05
+Membrane (Gland),0.2
+Membrane (Hide),0.5
+Membrane (Leaf),0.1
+Membrane (Root),0.1
+Membrane (Stalk),0.1
+Membrane (Tissue),0.2
+Memory Substrate,1.4
+Metabolic Agent (Bone),0.3
+Metabolic Agent (Carapace),0.3
+Metabolic Agent (Flower),0.05
+Metabolic Agent (Gland),0.2
+Metabolic Agent (Hide),0.5
+Metabolic Agent (Leaf),0.1
+Metabolic Agent (Root),0.1
+Metabolic Agent (Sap),0.1
+Metabolic Agent (Seed),0.1
+Metabolic Agent (Stalk),0.1
+Metabolic Agent (Tissue),0.2
+Metabolic Agent (Vital Fluids),0.2
+Metabolic Agent,0.5
+Neurologic,1.4
+Nutrient (Bone),0.3
+Nutrient (Carapace),0.3
+Nutrient (Flower),0.05
+Nutrient (Gland),0.2
+Nutrient (Hide),0.5
+Nutrient (Leaf),0.1
+Nutrient (Root),0.1
+Nutrient (Sap),0.1
+Nutrient (Seed),0.1
+Nutrient (Stalk),0.1
+Nutrient (Vital Fluids),0.2
+Nutrient,0.5
+Ornamental (Bone),0.3
+Ornamental (Carapace),0.3
+Ornamental (Flower),0.05
+Ornamental (Gland),0.2
+Ornamental (Hide),0.5
+Ornamental (Leaf),0.1
+Ornamental (Root),0.1
+Ornamental (Sap),0.1
+Ornamental (Seed),0.1
+Ornamental (Stalk),0.1
+Ornamental (Tissue),0.2
+Ornamental (Vital Fluids),0.2
+Ornamental Material,0.5
+Pigment (Bone),0.3
+Pigment (Carapace),0.3
+Pigment (Flower),0.05
+Pigment (Gland),0.2
+Pigment (Hide),0.5
+Pigment (Leaf),0.1
+Pigment (Root),0.1
+Pigment (Sap),0.1
+Pigment (Seed),0.1
+Pigment (Stalk),0.1
+Pigment (Tissue),0.2
+Pigment (Vital Fluids),0.2
+Pigment,0.5
+Polymer (Bone),0.3
+Polymer (Carapace),0.3
+Polymer (Flower),0.05
+Polymer (Gland),0.2
+Polymer (Hide),0.5
+Polymer (Leaf),0.1
+Polymer (Root),0.1
+Polymer (Sap),0.1
+Polymer (Seed),0.1
+Polymer (Stalk),0.1
+Polymer (Tissue),0.2
+Polymer (Vital Fluids),0.2
+Polymer,0.5
+Sealant (Carapace),0.3
+Sealant (Flower),0.05
+Sealant (Gland),0.2
+Sealant (Leaf),0.1
+Sealant (Root),0.1
+Sealant (Sap),0.1
+Sealant (Seed),0.1
+Sealant (Stalk),0.1
+Sealant,0.5
+Sedative (Bone),0.3
+Sedative (Carapace),0.3
+Sedative (Flower),0.05
+Sedative (Gland),0.2
+Sedative (Hide),0.5
+Sedative (Leaf),0.1
+Sedative (Root),0.1
+Sedative (Sap),0.1
+Sedative (Seed),0.1
+Sedative (Stalk),0.1
+Sedative (Tissue),0.2
+Sedative (Vital Fluids),0.2
+Sedative,0.5
+Solvent (Flower),0.05
+Solvent (Gland),0.2
+Solvent (Leaf),0.1
+Solvent (Root),0.1
+Solvent (Sap),0.1
+Solvent (Seed),0.1
+Solvent (Tissue),0.2
+Solvent (Vital Fluids),0.2
+Solvent,0.5
+Spice (Bone),0.3
+Spice (Carapace),0.3
+Spice (Flower),0.05
+Spice (Gland),0.2
+Spice (Hide),0.5
+Spice (Leaf),0.1
+Spice (Root),0.1
+Spice (Sap),0.1
+Spice (Seed),0.1
+Spice (Stalk),0.1
+Spice (Tissue),0.2
+Spice (Vital Fluids),0.2
+Spice,0.5
+Stimulant (Bone),0.3
+Stimulant (Carapace),0.3
+Stimulant (Flower),0.05
+Stimulant (Gland),0.2
+Stimulant (Hide),0.5
+Stimulant (Leaf),0.1
+Stimulant (Root),0.1
+Stimulant (Sap),0.1
+Stimulant (Seed),0.1
+Stimulant (Stalk),0.1
+Stimulant (Tissue),0.2
+Stimulant (Vital Fluids),0.2
+Stimulant,0.5
+Structural (Bone),0.3
+Structural (Carapace),0.3
+Structural (Hide),0.5
+Structural (Leaf),0.1
+Structural (Root),0.1
+Structural (Stalk),0.1
+Structural Material,0.5
+Toxin (Bone),0.3
+Toxin (Carapace),0.3
+Toxin (Flower),0.05
+Toxin (Gland),0.2
+Toxin (Hide),0.5
+Toxin (Leaf),0.1
+Toxin (Root),0.1
+Toxin (Sap),0.1
+Toxin (Seed),0.1
+Toxin,0.5
+Adaptive Frame,1.6
+Aldumite Drilling Rig,7
+Austenitic Manifold,4.3
+Comm Relay,3.5
+Control Rod,4.5
+Drilling Rig,5
+Indicite Wafer,4
+Isocentered Magnet,1.8
+Isotopic Coolant,0.8
+Mag Pressure Tank,1.5
+Microsecond Regulator,4.3
+Molecular Sieve,3
+Monopropellant,3.5
+Nuclear Fuel Rod,5
+Paramagnon Conductor,4
+Polytextile,2
+Positron Battery,3
+Power Circuit,3.8
+Reactive Gauge,1.5
+Rothicite Magnet,4.6
+Semimetal Wafer,3.5
+Sterile Nanotubes,3
+Substrate Molecule Sieve,4.5
+Supercooled Magnet,3.2
+Tasine Superconductor,5
+Tau Grade Rheostat,2.6
+Veryl-Treated Manifold,5.4
+Vytinium Fuel Rod,11
+Zero Wire,1.7
+Zero-G Gimbal,2.8

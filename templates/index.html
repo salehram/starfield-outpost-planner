@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- GTAG PLACE HOLDER -->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="{{ url_for('static', filename='js/script.js') }}"></script>
+    <title>Starfield Outpost Planner</title>
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+</head>
+    <body>
+        <div class="container mt-5">
+            <header class="text-center">
+                <h1>Starfield Outpost Planner</h1>
+            </header>
+
+            <section id="overview" class="mt-5">
+                <div class="jumbotron">
+                    <h2>Welcome to Starfield Outpost Planner!</h2>
+                    <p class="lead">This tool helps you plan the resources and modules needed for your outpost in the vast reaches of space.</p>
+                    <p>With this hopefully intuitive interface, you can quickly determine resource requirements, calculate total mass, and save your builds for future reference.</p>
+                    <p>The goal of this tool is to just provide a mean for you to know the resource and weight requirements for an outpost module or full build, however this can be scaled to virtually every single manufactured resource or mod in teh game, which probably is worth doing very soon!</p>
+            
+                    <div class="mt-4 text-center">
+                        <a href="/planner" class="btn btn-info btn-lg mb-2">Get Started Now</a><br>
+                    </div>
+                </div>
+            </section>
+        </div>
+        <footer>
+            <div class="container mt-4">
+                <hr>
+                <div style="background-color: #f2f2f2; padding: 10px;">
+                    <p class="text-center py-2">Disclaimer: The Starfield Outpost Planner is provided as-is without warranties of any kind, either express or implied. Use this tool at your own risk. The developer assumes no responsibility for any decisions made or actions taken based on the information provided by this tool.</p>
+                    <p class="text-center py-2">Privacy Notice: This tool does not collect, store, or process any personal or user-related data. It only caches limited data temporarily to function properly.</p>
+                </div>
+                <p class="text-center py-2 mt-3">© 2023 Starfield-Outpost-Planner.app. All rights reserved. Licensed under <a href="https://www.apache.org/licenses/LICENSE-2.0" target="_blank" rel="noopener noreferrer">Apache License 2.0</a>.</p>
+                <p class="text-center">Connect with me: 
+                    <a href="https://x.com/salehram87" target="_blank" rel="noopener noreferrer">X (formerly Twitter)</a> | 
+                    <a href="https://www.linkedin.com/in/salehram/" target="_blank" rel="noopener noreferrer">LinkedIn</a> | 
+                    <a href="https://github.com/salehram/starfield-outpost-planner" target="_blank" rel="noopener noreferrer">GitHub</a>
+                </p>
+            </div>
+        </footer>
+        
+        <!-- Include Bootstrap's JavaScript libraries (optional but recommended for components like modals) -->
+        <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.3/dist/umd/popper.min.js"></script>
+    </body>
+</html>

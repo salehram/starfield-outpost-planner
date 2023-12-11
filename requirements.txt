@@ -1,0 +1,6 @@
+Flask==2.3.3
+Flask-Cors==4.0.0
+Flask-Session==0.5.0
+pymongo
+gunicorn
+Werkzeug==2.3.7
